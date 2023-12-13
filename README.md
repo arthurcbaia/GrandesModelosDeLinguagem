@@ -13,11 +13,16 @@ Este repositório tem como objetivo reunir e compartilhar recursos educacionais 
 
 Contribuições são bem-vindas! Sinta-se à vontade para adicionar novos recursos educacionais nas respectivas pastas. Por favor, certifique-se de que o conteúdo que você está adicionando está em português e é relevante para modelos de linguagem.
 
-Ao contribuir, certifique-se de seguir estas diretrizes:
+Ao contribuir, por favor siga as seguintes diretrizes:
 
-1. Adicione o conteúdo na pasta apropriada (artigos, modelos, datasets ou tutoriais).
-2. Forneça uma descrição clara e concisa do conteúdo adicionado.
-3. Verifique se o conteúdo está sob uma licença compatível com a licença deste repositório.
+1. **Identifique a pasta correta**: Adicione o conteúdo na pasta apropriada (artigos, modelos, datasets ou tutoriais).
+2. **Descreva claramente**: Forneça uma descrição clara e concisa do conteúdo adicionado. Isso ajudará outros usuários a entender o que o conteúdo é e como ele pode ser útil.
+3. **Verifique a licença**: Certifique-se de que o conteúdo está sob uma licença compatível com a licença deste repositório. Se você não for o autor original do conteúdo, certifique-se de que você tem permissão para compartilhá-lo e que você atribui o devido crédito ao autor original.
+4. **Mantenha a qualidade**: Nos esforçamos para manter a alta qualidade do conteúdo neste repositório. Por favor, certifique-se de que o conteúdo que você está adicionando é de alta qualidade e é útil para pessoas interessadas em modelos de linguagem.
+5. **Respeite os outros**: Este repositório é um espaço para compartilhamento e aprendizado. Por favor, respeite os outros usuários e suas contribuições.
+
+Como o único mantenedor deste repositório no momento, farei o meu melhor para revisar e incorporar contribuições de maneira oportuna. No entanto, por favor, seja paciente se eu não responder imediatamente. Caso esteja interessado em contribuir para a expansão do repositório, por favor abra uma issue explicando quem você é,  porque você esta interessado em contrbuir, etc.
+
 
 ## Licença
 
